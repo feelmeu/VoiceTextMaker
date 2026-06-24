@@ -1,5 +1,5 @@
 ---
-role: ready-for-work
+role: parent
 title: VoiceTextMaker 核心流水线 — 语音克隆 + 唇形同步视频生成
 created_at: 2026-06-24
 importance: high
@@ -55,6 +55,15 @@ importance: high
 - **技术路线 A（选定）**：集成 GPT-SoVITS（语音克隆）+ MuseTalk（唇形驱动），效果优先
 - **技术路线 B**：自研轻量模型，体积优先但效果打折
 - **混合方案**：核心用开源但做精简裁剪控制体积
+
+## 子 Issue
+
+- Issue #0002：搭建项目骨架 + 核心抽象层
+- Issue #0003：集成 GPT-SoVITS 语音克隆模块
+- Issue #0004：集成 MuseTalk 唇形驱动模块
+- Issue #0005：端到端流水线串联
+- Issue #0006：GUI 界面开发
+- Issue #0007：Windows 可执行程序打包
 
 ## 参考
 

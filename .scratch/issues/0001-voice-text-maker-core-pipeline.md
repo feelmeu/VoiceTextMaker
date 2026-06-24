@@ -1,5 +1,5 @@
 ---
-role: parent
+role: done
 title: VoiceTextMaker 核心流水线 — 语音克隆 + 唇形同步视频生成
 created_at: 2026-06-24
 importance: high
@@ -77,4 +77,4 @@ importance: high
 
 ## 完成记录
 
-<!-- issue done 时填写，一句话即可 -->
+2026-06-24: 所有子 Issue 完成。核心流水线（TTS + LipSync + Pipeline）+ GUI + 打包配置全部就绪。待用户在 Windows 环境用真实模型验证。

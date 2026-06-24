@@ -1,5 +1,5 @@
 ---
-role: needs-triage
+role: done
 title: 集成 MuseTalk 唇形驱动模块
 created_at: 2026-06-24
 importance: high
@@ -50,3 +50,5 @@ importance: high
 ---
 
 ## 完成记录
+
+2026-06-24: MuseTalk Provider 实现完成，支持 v1.5/v1 版本，自动配置生成，依赖检查，错误处理。

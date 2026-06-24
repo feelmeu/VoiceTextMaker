@@ -1,5 +1,5 @@
 ---
-role: needs-triage
+role: done
 title: 集成 GPT-SoVITS 语音克隆模块
 created_at: 2026-06-24
 importance: high
@@ -50,3 +50,5 @@ importance: high
 ---
 
 ## 完成记录
+
+2026-06-24: GPT-SoVITS Provider 实现完成，基于 gpt-sovits-python API，支持自定义权重、多语言、参数调节、显存释放。

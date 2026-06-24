@@ -1,5 +1,5 @@
 ---
-role: needs-triage
+role: done
 title: GUI 界面开发
 created_at: 2026-06-24
 importance: mid
@@ -45,3 +45,5 @@ importance: mid
 ---
 
 ## 完成记录
+
+2026-06-24: Gradio GUI 实现完成，包含生成视频/模型设置/历史记录三个 Tab，支持参数调节和进度显示。

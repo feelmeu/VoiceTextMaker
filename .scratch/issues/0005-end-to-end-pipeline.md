@@ -1,5 +1,5 @@
 ---
-role: needs-triage
+role: done
 title: 端到端流水线串联
 created_at: 2026-06-24
 importance: high
@@ -44,3 +44,5 @@ importance: high
 ---
 
 ## 完成记录
+
+2026-06-24: 端到端流水线实现完成，Pipeline 类串联 TTS 和 LipSync，支持进度回调、临时文件清理、自定义输出路径。集成测试全部通过。

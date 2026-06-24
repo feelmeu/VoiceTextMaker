@@ -1,3 +1,5 @@
 """GUI 模块"""
 
-# GUI 实现将在 Issue #0006 中完成
+from .app import create_app
+
+__all__ = ["create_app"]

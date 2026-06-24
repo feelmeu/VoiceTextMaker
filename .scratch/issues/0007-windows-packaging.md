@@ -1,5 +1,5 @@
 ---
-role: needs-triage
+role: done
 title: Windows 可执行程序打包
 created_at: 2026-06-24
 importance: mid
@@ -44,3 +44,5 @@ importance: mid
 ---
 
 ## 完成记录
+
+2026-06-24: Windows 打包配置完成，包含 PyInstaller spec、打包脚本、打包文档。实际打包需要在 Windows 环境执行。
